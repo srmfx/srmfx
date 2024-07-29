@@ -1,5 +1,3 @@
-###### Author: Sebastião Ribeiro Monteiro Filho
-###### Email: srmfsrmf@hotmail.com
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=-1"/>
