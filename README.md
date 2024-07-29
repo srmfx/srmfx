@@ -1,4 +1,9 @@
-## Hi there 👋
+###### Author: Sebastião Ribeiro Monteiro Filho
+###### Email: srmfsrmf@hotmail.com
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srmfx&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=-1"/>
+</p>
 
 <!--
 **srmfx/srmfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
